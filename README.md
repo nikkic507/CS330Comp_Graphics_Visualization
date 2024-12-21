@@ -1,5 +1,6 @@
 # CS330Comp_Graphics_Visualization
 *How do I approach designing software?
+
 **What new design skills has your work on the project helped you to craft?
 The new design skills my work on all milestones helped my craft my spacial awareness and scale. Moving things around an XYZ axis and placing the appropriately to match my selected scene was both challenging and fun. I learned how to use textures and lighting to create a 3D scene, which is something I have never done before. 
 **What design process did you follow for your project work?
