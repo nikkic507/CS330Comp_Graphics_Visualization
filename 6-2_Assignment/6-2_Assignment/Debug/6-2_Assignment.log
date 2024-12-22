@@ -1,0 +1,4 @@
+﻿  6-2_Assignment.vcxproj -> C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\6-2_Assignment\Debug\6-2_Assignment.exe
+  The system cannot find the file specified.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: The command "copy "C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\6-2_Assignment\Debug\.exe" "C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\6-2_Assignment\" /y
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" exited with code 1.
