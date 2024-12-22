@@ -1,0 +1,9 @@
+﻿  ViewManager.cpp
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(135,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(136,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(141,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(142,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(145,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(146,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(226,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  4-2_Assignment.vcxproj -> C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\4-2_Assignment\Debug\4-2_Assignment.exe
