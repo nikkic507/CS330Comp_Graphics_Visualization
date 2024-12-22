@@ -1,0 +1,98 @@
+﻿  MainCode.cpp
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Utilities\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Utilities\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Utilities\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Utilities\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Utilities\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Utilities\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source/MainCode.cpp')
+      C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Libraries\GLFW\include\GLFW\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(63,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(71,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(72,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(73,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(90,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(91,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(104,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(105,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(183,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(198,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(198,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(199,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(199,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(200,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(200,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(201,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(201,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(201,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(202,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(202,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(202,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(203,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(203,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(203,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(204,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(204,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(204,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(205,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(205,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(205,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(206,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(206,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(207,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(207,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(207,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(208,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(208,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(209,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(209,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(210,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(210,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(210,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(211,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(211,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(211,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(212,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(212,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(213,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(213,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(214,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(214,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(215,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(216,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(216,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(217,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(217,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(218,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(218,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(219,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(219,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(220,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(221,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(221,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(222,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(222,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(223,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(301,2): warning C4551: function call missing argument list
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(317,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(317,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(317,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(317,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  8-2_Assignment.vcxproj -> C:\Users\nikki\OneDrive\Desktop\CS330Content29June\CS330Content\Projects\8-2_Assignment\Debug\8-2_Assignment.exe
